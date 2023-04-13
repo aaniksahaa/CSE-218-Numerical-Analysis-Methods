@@ -1,0 +1,3 @@
+Change axis titles according to problem
+Carefully change range of b for exponential regression
+If data points don't show up in contrast to regression graph, swap the lines
